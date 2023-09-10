@@ -36,7 +36,7 @@ Creating a basic calculator in C++
 ## **THEORY**
 Calculators have widely used devices nowadays. It makes calculations easier and faster. Calculators are used by everyone in daily life. A simple calculator can be made using a C++ program that is able to add, subtract, multiply, and divide, two operands entered by the user
 
-### **ALGORTHM**
+### **ALGORITHM**
 |01| Start the program.
 
 |02| Display a menu to the user with options for different arithmetic operations (e.g., addition, subtraction, multiplication, division). Each option should be associated with a unique numeric code (e.g., 1 for addition, 2 for subtraction, etc.).
