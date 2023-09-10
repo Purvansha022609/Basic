@@ -28,3 +28,47 @@ Hello World programs are traditionally used to demonstrate how the coding proces
 
 
 ![Hello world](https://github.com/Purvansha022609/Basic/assets/139473344/17549f53-8c30-4869-8284-b26c5f601d7f)
+
+
+# **AIM-2**
+Creating a basic calculator in C++
+
+## **THEORY**
+Calculators have widely used devices nowadays. It makes calculations easier and faster. Calculators are used by everyone in daily life. A simple calculator can be made using a C++ program that is able to add, subtract, multiply, and divide, two operands entered by the user
+
+### **ALGORTHM**
+|01| Start the program.
+
+|02| Display a menu to the user with options for different arithmetic operations (e.g., addition, subtraction, multiplication, division). Each option should be associated with a unique numeric code (e.g., 1 for addition, 2 for subtraction, etc.).
+
+|03| Prompt the user to enter the numeric code corresponding to the desired operation.
+
+|04| Read and store the user's choice.
+
+|05| Prompt the user to enter the first number for the calculation and store it in a variable (e.g., num1).
+
+|06| Prompt the user to enter the second number for the calculation and store it in another variable (e.g., num2).
+
+|07| Use a switch statement to perform the appropriate arithmetic operation based on the user's choice:
+
+|08| If the user's choice is 1, add num1 and num2 and store the result in a variable (e.g., result = num1 + num2).
+
+|09| If the user's choice is 2, subtract num2 from num1 and store the result in result.
+
+|10| If the user's choice is 3, multiply num1 and num2 and store the result in result.
+
+|11| If the user's choice is 4, check if num2 is not equal to zero. If it's not, divide num1 by num2 and store the result in result. If num2 is zero, display an error message indicating that division by zero is not allowed.
+
+|12| Display the result of the calculation to the user.
+
+|13| Ask the user if they want to perform another calculation or exit the program.
+
+|14| If the user chooses to perform another calculation, return to step 3. If the user chooses to exit, end the program.
+
+|15| End the program.
+
+This algorithm outlines the basic structure of a calculator program using switch cases. It allows the user to choose an operation, enter two numbers, perform the calculation, and display the result. Additionally, it includes error handling for division by zero and provides the option to perform multiple calculations or exit the program.
+
+### **OUTPUT**
+
+![Basic calculator](https://github.com/Purvansha022609/Basic/assets/139473344/5b35e14c-03b6-484c-bf39-d34b003e715d)
