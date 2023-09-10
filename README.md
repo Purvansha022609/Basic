@@ -21,7 +21,7 @@ Hello World programs are traditionally used to demonstrate how the coding proces
 
 |07| Compile and run this code, and it will print "Hello, World!" to the console.
 
-### ** OUTPUT **
+### **OUTPUT**
 
 
 
