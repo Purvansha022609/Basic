@@ -1,10 +1,10 @@
-# **AIM**
+# **AIM-1**
 Write the program to print Hello World
 
 ## **THEORY**
 Hello World programs are traditionally used to demonstrate how the coding process works as well as to ensure that a language or system is working properly. They are typically the first programs that new coders learn and even those with little to no programming experience can quickly and correctly execute Hello World.
 
-### ** ALGORITHM**
+### ** ALGORITHM **
 |01| #include <iostream>: This line includes the Input/Output Stream library, which provides functions like cout and endl for input and output operations.
 
 |02| int main() { ... }: This is the main function of your C++ program. It is the entry point of your program, and execution begins here.
@@ -21,7 +21,10 @@ Hello World programs are traditionally used to demonstrate how the coding proces
 
 |07| Compile and run this code, and it will print "Hello, World!" to the console.
 
+### ** OUTPUT **
 
 
 
 
+
+![Hello world](https://github.com/Purvansha022609/Basic/assets/139473344/17549f53-8c30-4869-8284-b26c5f601d7f)
